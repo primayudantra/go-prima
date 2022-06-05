@@ -1,0 +1,15 @@
+app:
+  name : "GOSTRA"
+  port : "3000"
+db:
+  host: "127.0.0.1"
+  port: "5432"
+  name: "gostra"
+  username: "gostra"
+  password: "gostra"
+  run_migration: true
+redis:
+  host: "127.0.0.1"
+  port: "6380"
+  username: "root"
+  password: ""

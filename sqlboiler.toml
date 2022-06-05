@@ -1,0 +1,8 @@
+pkgname = "model"
+no-tests = "true"
+
+[psql]
+dbname = "simple-projects"
+user = "root"
+host = "localhost"
+password = "password"
